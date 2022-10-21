@@ -1,0 +1,58 @@
+export const imageData = [
+    {
+        id: 1,
+        title: "Dress 1",
+        descriptoin: "",
+        price: "$800",
+        imageURL: "https://www.johnnywas.com/media/catalog/product/cache/e827a3bf21814344a7ecf8de79d925ba/l/3/l30621-8_mti_6.jpg",
+    },
+    {
+        id: 2,
+        title: "Dress 2",
+        descriptoin: "",
+        price: "$800",
+        imageURL: "https://www.johnnywas.com/media/catalog/product/cache/e827a3bf21814344a7ecf8de79d925ba/l/3/l30621-8_mti_6.jpg",
+    },
+    {
+        id: 3,
+        title: "Dress 3",
+        descriptoin: "",
+        price: "$800",
+        imageURL: "https://www.johnnywas.com/media/catalog/product/cache/e827a3bf21814344a7ecf8de79d925ba/l/3/l30621-8_mti_6.jpg",
+    },
+    {
+        id: 4,
+        title: "Dress 4",
+        descriptoin: "",
+        price: "$800",
+        imageURL: "https://www.johnnywas.com/media/catalog/product/cache/e827a3bf21814344a7ecf8de79d925ba/l/3/l30621-8_mti_6.jpg",
+    },
+    {
+        id: 5,
+        title: "Dress 5",
+        descriptoin: "",
+        price: "$800",
+        imageURL: "https://www.johnnywas.com/media/catalog/product/cache/e827a3bf21814344a7ecf8de79d925ba/l/3/l30621-8_mti_6.jpg",
+    },
+    {
+        id: 6,
+        title: "Dress 6",
+        descriptoin: "",
+        price: "$800",
+        imageURL: "https://www.johnnywas.com/media/catalog/product/cache/e827a3bf21814344a7ecf8de79d925ba/l/3/l30621-8_mti_6.jpg",
+    },
+    {
+        id: 7,
+        title: "Dress 7",
+        descriptoin: "",
+        price: "$800",
+        imageURL: "https://www.johnnywas.com/media/catalog/product/cache/e827a3bf21814344a7ecf8de79d925ba/l/3/l30621-8_mti_6.jpg",
+    },
+    {
+        id: 8,
+        title: "Dress 8",
+        descriptoin: "",
+        price: "$800",
+        imageURL: "https://www.johnnywas.com/media/catalog/product/cache/e827a3bf21814344a7ecf8de79d925ba/l/3/l30621-8_mti_6.jpg",
+    },
+];
